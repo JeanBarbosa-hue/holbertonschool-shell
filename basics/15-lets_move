@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep "^[A-Z]" /u/tmp
+ls |grep '^[ABCDEFGHIJKLMNOPQRSTUVWXYZ]' /tmp/u
