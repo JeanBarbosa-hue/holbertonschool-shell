@@ -5,4 +5,5 @@ command to list directory in long format,
 list current directory contents including hidden files,
 display current directory in long format, user and group id and hidden files,
 making directory in another directory,
-moving file form one directory to another, 
+moving file from one directory to another,
+deleting files 
