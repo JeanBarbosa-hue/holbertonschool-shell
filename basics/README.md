@@ -8,4 +8,5 @@ making directory in another directory,
 moving file from one directory to another,
 deleting files,
 deleting directories,
-changing working directory to previous one,  
+changing working directory to previous one,
+list all files(even hidden ones)in the current working and parent directory in long format  
