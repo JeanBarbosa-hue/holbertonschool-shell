@@ -6,4 +6,5 @@ list current directory contents including hidden files,
 display current directory in long format, user and group id and hidden files,
 making directory in another directory,
 moving file from one directory to another,
-deleting files 
+deleting files,
+deleting directories, 
