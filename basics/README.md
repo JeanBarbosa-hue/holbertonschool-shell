@@ -10,4 +10,9 @@ deleting files,
 deleting directories,
 changing working directory to previous one,
 list all files(even hidden ones)in the current working and parent directory in long format,
-  
+prints the type of file named iamafile,
+symbolic link,
+copies HTML files,
+command that moves all files beginning with uppercase letter,
+delete files command that ends with ~,
+create directories with mkdir -p.  
