@@ -2,4 +2,6 @@
 
 2.command that prints the effective username of the current user
 
-3.command that prints all the groups current user is part of 
+3.command that prints all the groups current user is part of
+
+4.changes the owner of a file 
