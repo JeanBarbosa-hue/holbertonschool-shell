@@ -1,2 +1,2 @@
 #!/bin/bash
-gpg -d
+cut -c 1 | paste -s -d ''
